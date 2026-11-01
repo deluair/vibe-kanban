@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
-    "vite": "^6.4.2"
+    "vite": "^6.4.5"
   },
   "engines": {
     "node": ">=18",
